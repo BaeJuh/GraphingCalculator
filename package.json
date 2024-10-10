@@ -1,0 +1,14 @@
+{
+  "name": "graphingcalculator",
+  "version": "1.0.0",
+  "description": "계산기의 기능과 그래프의 시각화를 할 수 있는 프로그램",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Juhwan Bae",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
